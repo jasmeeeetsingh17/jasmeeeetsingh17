@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jasmeeeetsingh17
 - 👀 I’m interested in coding, making projects, and web development and ready to learn new languages and improve myself 
-- 🌱 I’m currently learning Python in AI/ML
+- 🌱 I’m currently learning Python in Data Science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me jasmeetsingh1710@gmail.com
 - 😄 Pronouns: he/him
