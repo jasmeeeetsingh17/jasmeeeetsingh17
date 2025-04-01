@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on Web Development Projects
 - 📫 How to reach me jasmeetsingh1710@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: ...
 
 <!---
 jasmeeeetsingh17/jasmeeeetsingh17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
