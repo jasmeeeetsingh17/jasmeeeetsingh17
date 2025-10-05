@@ -45,12 +45,6 @@ I'm a passionate **Backend Developer** who loves building scalable and efficient
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasmeeeetsingh17&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jasmeeeetsingh17&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
-</div>
-
 ## 📫 Connect With Me
 
 <div align="center">
