@@ -1,7 +1,7 @@
 # Hi there, I'm Jasmeet Singh 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=435&lines=Backend+Developer;Problem+Solver;Tech+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=435&lines=Aspiring+Backend+Developer;Problem+Solver;Tech+Enthusiast" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
