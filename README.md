@@ -63,7 +63,6 @@ const jasmeet = {
     technologies: {
         backEnd: {
             js: ["Node.js", "Express"],
-            python: ["Django", "Flask"]
         },
         frontEnd: {
             js: ["React", "Next.js"],
