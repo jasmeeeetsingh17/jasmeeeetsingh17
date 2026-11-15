@@ -1,46 +1,52 @@
-# Hi, I'm Jasmeet Singh 👋
+# Jasmeet Singh
 
-Backend developer in the making. I build REST APIs and full-stack web apps with Node.js, Express, MongoDB and Next.js.
+**Aspiring Backend Developer** | Final-year BCA student, GGSIPU (MERI College)
 
-Final-year BCA student at GGSIPU (MERI College), heading to MCA. **Open to internships.**
+I build server-side applications and REST APIs with Node.js, Express and MongoDB. I care about clean API design, sensible database schemas and code that's easy to read and maintain. I'm looking for a **backend internship**.
 
-[LinkedIn](https://www.linkedin.com/in/jasmeet-singh-7a6387239/) · [X](https://twitter.com/JasmeetSingh_17)
-
----
-
-### Tech Stack
-
-**Languages:** JavaScript, TypeScript, Python, Java, C, C++, PHP<br/>
-**Backend:** Node.js, Express.js, REST APIs<br/>
-**Frontend:** React, Next.js, Tailwind CSS, Bootstrap<br/>
-**Databases:** MongoDB, MySQL<br/>
-**Tools:** Git, GitHub, Postman, VS Code, Vercel
+📫 [LinkedIn](https://www.linkedin.com/in/jasmeet-singh-7a6387239/) · [X](https://twitter.com/JasmeetSingh_17)
 
 ---
 
-### Projects
+## Skills
 
-| Project | Description | Stack | Links |
-|:--|:--|:--|:--|
-| **CampusFlow** | Full-stack campus management platform | TypeScript, Node.js, React | [Frontend](https://github.com/jasmeeeetsingh17/CampusFlow-FrontEnd-Final) · [Backend](https://github.com/jasmeeeetsingh17/CampusFlow-BackEnd-Final) · [Live](https://campus-flow-front-end-final.vercel.app) |
-| **TravelSphere** | Travel planning platform (in progress) | TypeScript, Next.js | [Code](https://github.com/jasmeeeetsingh17/TravelSphere) |
-| **StudyMate** | Study companion app for students | JavaScript | [Code](https://github.com/jasmeeeetsingh17/StudyMate) · [Live](https://study-mate-1o23qn3bp-jasmeeeetsingh17s-projects.vercel.app) |
-| **REST API** | CRUD API built with Node.js and Express | Node.js, Express | [Code](https://github.com/jasmeeeetsingh17/REST_API) |
-| **Movie App** | Movie search and browsing app | JavaScript | [Code](https://github.com/jasmeeeetsingh17/Movie_APP) · [Live](https://movie-app-gules-six.vercel.app) |
-| **Weather Dashboard** | Real-time weather by city | JavaScript | [Code](https://github.com/jasmeeeetsingh17/Weather_Dashboard) · [Live](https://weather-dashboard-drab-six.vercel.app) |
+- **Backend:** Node.js, Express.js, REST API design
+- **Databases:** MongoDB, MySQL
+- **Languages:** JavaScript, TypeScript, Java, Python, C, C++
+- **Frontend (basics):** React, Next.js, Tailwind CSS
+- **Tools:** Git, GitHub, Postman, VS Code
 
 ---
 
-### Certifications
+## Projects
 
-- AI/ML for Geo Data Analysis, **ISRO**
-- IoT Edge Computing, **Infosys Springboard**
-- Git & GitHub, **Udemy**
+**[CampusFlow](https://github.com/jasmeeeetsingh17/CampusFlow-BackEnd-Final)** (TypeScript, Node.js)<br/>
+Backend for a campus management platform, with a [separate frontend](https://github.com/jasmeeeetsingh17/CampusFlow-FrontEnd-Final). It handles the APIs and data layer for campus workflows.
+
+**[REST API](https://github.com/jasmeeeetsingh17/REST_API)** (Node.js, Express)<br/>
+RESTful API with CRUD operations, routing and request handling.
+
+**[YelpCamp](https://github.com/jasmeeeetsingh17/YelpCamp)** (Node.js, Express, MongoDB)<br/>
+Campground listing app with server-side rendering, MongoDB storage and reviews.
+
+**[TravelSphere](https://github.com/jasmeeeetsingh17/TravelSphere)** (TypeScript, Next.js), *in progress*<br/>
+Travel planning platform. My current main project.
+
+**[StudyMate](https://github.com/jasmeeeetsingh17/StudyMate)** (JavaScript)<br/>
+Study companion app for students.
 
 ---
 
-### Currently
+## Certifications
 
-- 🔨 Building **TravelSphere**
-- 📖 Learning system design and AI/ML basics
-- 💬 Happy to talk about backend, databases and web projects
+- AI/ML for Geo Data Analysis, ISRO
+- IoT Edge Computing, Infosys Springboard
+- Git & GitHub, Udemy
+
+---
+
+## Currently Learning
+
+- Authentication and authorization (JWT, sessions)
+- Database design and query optimization
+- System design basics
