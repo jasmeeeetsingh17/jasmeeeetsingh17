@@ -29,16 +29,27 @@
 ## 🛠️ Skills
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,js,ts,java,py,c,cpp,react,nextjs,git,github,postman,vscode&perline=8" alt="Skills"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,js,ts,java,py,c,cpp,php,html,css,react,nextjs,tailwind,bootstrap,git,github,postman,vscode,vercel,npm,linux&perline=12" alt="Skills"/>
 </p>
 
 | | |
 |:--|:--|
-| ⚙️ **Backend** | `Node.js` · `Express.js` · `REST API Design` |
-| 🗄️ **Databases** | `MongoDB` · `MySQL` |
-| 💻 **Languages** | `JavaScript` · `TypeScript` · `Java` · `Python` · `C` · `C++` |
-| 🎨 **Frontend** *(basics)* | `React` · `Next.js` · `Tailwind CSS` |
-| 🧰 **Tools** | `Git` · `GitHub` · `Postman` · `VS Code` |
+| ⚙️ **Backend** | `Node.js` · `Express.js` · `REST API Design` · `MVC Architecture` · `Middleware` · `EJS Templating` |
+| 🔐 **Auth & Security** | `JWT` · `Session Auth` · `Password Hashing (bcrypt)` · `Input Validation` |
+| 🗄️ **Databases** | `MongoDB` · `Mongoose` · `MySQL` · `SQL Queries` · `Schema Design` |
+| 💻 **Languages** | `JavaScript` · `TypeScript` · `Java` · `Python` · `C` · `C++` · `PHP` |
+| 🎨 **Frontend** *(basics)* | `HTML` · `CSS` · `React` · `Next.js` · `Tailwind CSS` · `Bootstrap` |
+| 🧰 **Tools** | `Git` · `GitHub` · `Postman` · `VS Code` · `npm` · `Vercel` · `Linux (basics)` |
+| 📚 **CS Fundamentals** | `Data Structures & Algorithms` · `OOP` · `DBMS` · `Operating Systems` · `Computer Networks` |
+| 🤖 **Also Explored** | `AI/ML Basics` · `Geo Data Analysis` · `IoT Edge Computing` |
+
+<details>
+<summary>💬 <b>Soft skills</b></summary>
+<br/>
+
+`Problem Solving` · `Debugging` · `Team Collaboration` · `Quick Learner` · `Documentation`
+
+</details>
 
 ---
 
@@ -81,7 +92,7 @@ A **study companion app** that helps students organize their learning.
 
 ## 📖 Currently Learning
 
-- 🔐 Authentication and authorization *(JWT, sessions)*
+- 🐳 Docker and deploying backend services
 - 🗃️ Database design and query optimization
 - 🏗️ System design basics
 
